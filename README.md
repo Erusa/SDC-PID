@@ -1,5 +1,5 @@
 # SDC-PID
-This code is PID Controller of a car
+My own Project from SDC Udacity Course (Project 7). This code is PID Controller of a car
 
 1. main.cpp --> this part recieves the error from the simulator and give the steering, throttle and speed controller of the car
 2. PID.h and PID.cpp --> this part include the PID Controller
